@@ -31,19 +31,14 @@ $ git clone https://github.com/Aimanski12/Javascript_Projects/tree/proj12 proj-n
 
 After downloading the repo you can cd into the `proj-name` and then run the application with the live-server. All the assets are already included so you can run the application and it will work. 
 
-## Contributing
 
-If you find bugs with this project, pull requests are always welcome. You can [create an issue here](https://github.com/Aimanski12/Javascript_Projects/issues/new).
-Your :sparkles: are also greatly appreciated.
-
-[View other projects](http://bit.ly/aiman-javascript-projects)
 
 ## Author
 
-[Aimanski](http://bit.ly/aiman-profile-github).
+[Amarjot singh Bawa](https://github.com/amars22/).
 
 ## License 
 
-Copyright © 2019, [Aimanski12](http://bit.ly/aiman-profile-github).
-Released under the [MIT License](LICENSE).
+Copyright © 2022, [Amarjot Singh Bawa]
+
 
